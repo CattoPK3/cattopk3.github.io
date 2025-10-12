@@ -12,4 +12,4 @@ Here some tools / languages I use:
 Here something about me:
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#https://youtube.com/@cattopk3)
-[![BlueSky](https://img.shields.io/badge/Bluesky-1DA1F2?logo=Bluesky&logoColor=white)](https://bsky.app/profile/did:plc:asabaeav46c724cueqlarejn))
+[![BlueSky](https://img.shields.io/badge/Bluesky-1DA1F2?logo=Bluesky&logoColor=white)](https://bsky.app/profile/did:plc:asabaeav46c724cueqlarejn)
